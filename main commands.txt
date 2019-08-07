@@ -1,0 +1,25 @@
+sudo npm install -g create-react-app
+
+sudo - install as administrator
+-g global
+cd .... file directory for the project files
+create-react-app react-is-fun -> "name of the project"
+
+Local: http://localhost:3000
+Network: http://192.168.0.13:3000
+
+npm start
+    Starts the development server.
+
+  npm run build
+    Bundles the app into static files for production.
+
+  npm test
+    Starts the test runner.
+
+cd project folder -> cd react-is-fun
+npm start
+
+Extra framworks
+npm i (install) -s(--save) (save as a dependency of the project - dependency section)
+npm i -s bootstrap react-icons lodash jquey popper.js moment react-mome
